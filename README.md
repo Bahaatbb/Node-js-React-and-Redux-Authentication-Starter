@@ -6,4 +6,4 @@ Quick way to start a Project with authentication and authorization
 
 -The Backend uses node js with jwt-token
 
-There is a validation provided in this Project
+There is a validation provided.
